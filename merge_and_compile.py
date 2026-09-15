@@ -10,14 +10,11 @@ import ipaddress
 # -----------------------------
 
 DIRECT_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/apple_cdn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cn.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/domestic.json",
 ]
 
 PROXY_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_intelligence.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/global.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/ai.json",
     "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/stream.json",
