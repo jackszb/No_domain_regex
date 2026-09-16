@@ -19,10 +19,8 @@ PROXY_URLS = [
 ]
 
 REJECT_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/reject.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-drop.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-no-drop.json",
+    "https://raw.githubusercontent.com/jackszb/hagezi/main/rules/pro.plus.json",
+    "https://raw.githubusercontent.com/jackszb/No_domain_regex/main/reject_custom_rules.json",
 ]
 
 IP_URLS = [
