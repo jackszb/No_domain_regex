@@ -11,6 +11,7 @@ import ipaddress
 
 DIRECT_URLS = [
     "https://raw.githubusercontent.com/jackszb/v2/main/rules/v2fly-cn.json",
+    "https://raw.githubusercontent.com/jackszb/No_domain_regex/main/direct_custom_rules.json",
 ]
 
 PROXY_URLS = [
