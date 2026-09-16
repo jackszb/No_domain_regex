@@ -16,6 +16,7 @@ DIRECT_URLS = [
 
 PROXY_URLS = [
     "https://raw.githubusercontent.com/jackszb/v2/main/rules2/v2fly-!cn.json",
+    "https://raw.githubusercontent.com/jackszb/No_domain_regex/main/proxy_custom_rules.json",
 ]
 
 REJECT_URLS = [
