@@ -20,7 +20,6 @@ PROXY_URLS = [
 ]
 
 REJECT_URLS = [
-    "https://raw.githubusercontent.com/jackszb/hagezi/main/rules/pro.json",
     "https://raw.githubusercontent.com/jackszb/mix/main/rules/ads.json",
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Singbox-Only.Ads.json",
     "https://raw.githubusercontent.com/jackszb/No_domain_regex/main/reject_custom_rules.json",
