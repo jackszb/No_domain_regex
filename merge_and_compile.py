@@ -23,6 +23,7 @@ REJECT_URLS = [
     "https://raw.githubusercontent.com/jackszb/mix/main/rules/ads.json",
     "https://raw.githubusercontent.com/jackszb/easy-ad/main/rules/easy.json",
     "https://raw.githubusercontent.com/jackszb/easy-ad/main/rules/easychina.json",
+    "https://raw.githubusercontent.com/jackszb/easy-ad/main/rules/chinesefilter.json",
     "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Singbox-Only.Ads.json",
     "https://raw.githubusercontent.com/jackszb/No_domain_regex/main/reject_custom_rules.json",
 ]
