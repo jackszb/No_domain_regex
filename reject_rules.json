@@ -2,6 +2,12 @@
   "version": 5,
   "rules": [
     {
+      "domain_keyword": [
+        "-ad.sm.cn",
+        "-ad.video.yximgs.com",
+        "-ad.wtzw.com",
+        "-be-pack-sign.pglstatp-toutiao.com"
+      ],
       "domain": [
         "1500020991.vodplayer.wxamedia.com",
         "1500022744.vodplayer.wxamedia.com",
@@ -19,6 +25,7 @@
         "ad.12306.cn",
         "ad.51wnl.com",
         "ad.api.3g.youku.com",
+        "ad.api.coolapk.com",
         "ad.bn.netease.com",
         "ad.bwton.com",
         "ad.cctv.com",
@@ -306,6 +313,7 @@
         "et-eus.w.inmobi.com",
         "event.tradplusad.com",
         "fancyapi.com",
+        "fc-video.cdn.bcebos.com",
         "fclog.baidu.com",
         "feed-image.baidu.com",
         "file.daihuo.qq.com",
@@ -484,6 +492,7 @@
         "review.gdtimg.com",
         "rlog.popin.cc",
         "roi.soulapp.cn",
+        "rp.hpplay.cn",
         "rpt.gdt.qq.com",
         "rt.applovin.com",
         "rt.applvn.com",
@@ -584,6 +593,7 @@
         "union.baidu.cn",
         "union.baidu.com",
         "unityads.unity3d.com",
+        "update.pan.baidu.com",
         "update0.aiclk.com",
         "us.l.qq.com",
         "usr-api.aiclk.com",
@@ -22303,6 +22313,7 @@
         "adtumxjckljej.space",
         "adturtle.biz",
         "aduahr.outbax.com.au",
+        "adukwai.com",
         "adulateearring.com",
         "adulateprofessnorth.com",
         "adulatiowealth.com",
@@ -23287,6 +23298,7 @@
         "afcv.champ-shop.com",
         "afcwphzvleh.com",
         "afcyhf.com",
+        "afd-conf.baidu.com",
         "afd-ortenau.de",
         "afd.baidu.com",
         "afdads.com",
@@ -87198,7 +87210,6 @@
         "dat.smartbuyer.com.ng",
         "dat1.jzjxmj.com",
         "dat725.com",
-        "data",
         "data-0034231193.apps.iocnt.de",
         "data-00460c60fa.eurotransport.de",
         "data-004e4e6793.wetter.at",
@@ -104463,6 +104474,7 @@
         "e.kde.cz",
         "e.knuffelwuff.be",
         "e.kuaishou.cn",
+        "e.kuaishou.com",
         "e.legalstart.fr",
         "e.mail.levi.com",
         "e.mediherz-shop.de",
@@ -175860,7 +175872,6 @@
         "kuaikan.netmon.360safe.com",
         "kuaishang.cn",
         "kuaishang.com.cn",
-        "kuaishou.httpdns.pro",
         "kuaiyan.com.cn",
         "kuaiyinren.cn",
         "kuaizip.com",
@@ -190611,7 +190622,6 @@
         "loftandpine.eu",
         "loftconversionedinburgh.com",
         "loftdoordesign.com",
-        "lofter.httpdns.c.163.com",
         "loftio.shop",
         "loftizsoftiz.org",
         "loftlivi.com",
@@ -209502,6 +209512,7 @@
         "mobads-logs.baidu.com",
         "mobads-logs.bcebos.com",
         "mobads-pre-config.cdn.bcebos.com",
+        "mobads.baidu.cn",
         "mobads.baidu.com",
         "mobads4app.com",
         "mobagent.com",
@@ -213242,7 +213253,6 @@
         "music-official.com",
         "music.cleansite.us",
         "music.gotoothless.com",
-        "music.httpdns.c.163.com",
         "music.managingforresults.com",
         "music.playmediacenter.com",
         "music.websegoo.net",
@@ -237901,6 +237911,7 @@
         "pgdbb1.surf-town.net",
         "pgdskofjaloka.si",
         "pgdt.gtimg.cn",
+        "pgdt.ugdtimg.com",
         "pgdudllfjgeyy.online",
         "pgduet.nnnthree.com",
         "pgdvv.cupids.com",
@@ -383755,6 +383766,7 @@
         "zhangguangzong.com",
         "zhangxinzhixun.com",
         "zhangyuyidong.cn",
+        "zhangyuyidong.com",
         "zhangzhian.net",
         "zhanjijiancai.com",
         "zhanna.com",
@@ -386624,12 +386636,6 @@
         "zzzoraclecloudsupportp07e10-img-enh-cdn.eloquademos.com",
         "zzzwowosss.com",
         "zzzzzzzkplpllllpppllpppl.com"
-      ],
-      "domain_keyword": [
-        "-ad.sm.cn",
-        "-ad.video.yximgs.com",
-        "-ad.wtzw.com",
-        "-be-pack-sign.pglstatp-toutiao.com"
       ]
     }
   ]

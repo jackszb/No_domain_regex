@@ -14,6 +14,7 @@ DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad.12306.cn
 DOMAIN,ad.51wnl.com
 DOMAIN,ad.api.3g.youku.com
+DOMAIN,ad.api.coolapk.com
 DOMAIN,ad.bn.netease.com
 DOMAIN,ad.bwton.com
 DOMAIN,ad.cctv.com
@@ -301,6 +302,7 @@ DOMAIN,entry.baidu.com
 DOMAIN,et-eus.w.inmobi.com
 DOMAIN,event.tradplusad.com
 DOMAIN,fancyapi.com
+DOMAIN,fc-video.cdn.bcebos.com
 DOMAIN,fclog.baidu.com
 DOMAIN,feed-image.baidu.com
 DOMAIN,file.daihuo.qq.com
@@ -479,6 +481,7 @@ DOMAIN,res3.hubcloud.com.cn
 DOMAIN,review.gdtimg.com
 DOMAIN,rlog.popin.cc
 DOMAIN,roi.soulapp.cn
+DOMAIN,rp.hpplay.cn
 DOMAIN,rpt.gdt.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.applvn.com
@@ -579,6 +582,7 @@ DOMAIN,uapi.ads.heytapmobi.com
 DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,unityads.unity3d.com
+DOMAIN,update.pan.baidu.com
 DOMAIN,update0.aiclk.com
 DOMAIN,us.l.qq.com
 DOMAIN,usr-api.aiclk.com
@@ -22297,6 +22301,7 @@ DOMAIN-SUFFIX,adtube.media
 DOMAIN-SUFFIX,adtumxjckljej.space
 DOMAIN-SUFFIX,adturtle.biz
 DOMAIN-SUFFIX,aduahr.outbax.com.au
+DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,adulateearring.com
 DOMAIN-SUFFIX,adulateprofessnorth.com
 DOMAIN-SUFFIX,adulatiowealth.com
@@ -23281,6 +23286,7 @@ DOMAIN-SUFFIX,afcu-userid.web.app
 DOMAIN-SUFFIX,afcv.champ-shop.com
 DOMAIN-SUFFIX,afcwphzvleh.com
 DOMAIN-SUFFIX,afcyhf.com
+DOMAIN-SUFFIX,afd-conf.baidu.com
 DOMAIN-SUFFIX,afd-ortenau.de
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afdads.com
@@ -87192,7 +87198,6 @@ DOMAIN-SUFFIX,dat.puissante.co
 DOMAIN-SUFFIX,dat.smartbuyer.com.ng
 DOMAIN-SUFFIX,dat1.jzjxmj.com
 DOMAIN-SUFFIX,dat725.com
-DOMAIN-SUFFIX,data
 DOMAIN-SUFFIX,data-0034231193.apps.iocnt.de
 DOMAIN-SUFFIX,data-00460c60fa.eurotransport.de
 DOMAIN-SUFFIX,data-004e4e6793.wetter.at
@@ -104457,6 +104462,7 @@ DOMAIN-SUFFIX,e.kc-education.com
 DOMAIN-SUFFIX,e.kde.cz
 DOMAIN-SUFFIX,e.knuffelwuff.be
 DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN-SUFFIX,e.legalstart.fr
 DOMAIN-SUFFIX,e.mail.levi.com
 DOMAIN-SUFFIX,e.mediherz-shop.de
@@ -175854,7 +175860,6 @@ DOMAIN-SUFFIX,kuaifr.camicado.com.br
 DOMAIN-SUFFIX,kuaikan.netmon.360safe.com
 DOMAIN-SUFFIX,kuaishang.cn
 DOMAIN-SUFFIX,kuaishang.com.cn
-DOMAIN-SUFFIX,kuaishou.httpdns.pro
 DOMAIN-SUFFIX,kuaiyan.com.cn
 DOMAIN-SUFFIX,kuaiyinren.cn
 DOMAIN-SUFFIX,kuaizip.com
@@ -190605,7 +190610,6 @@ DOMAIN-SUFFIX,loft2126.dedicatedpanel.com
 DOMAIN-SUFFIX,loftandpine.eu
 DOMAIN-SUFFIX,loftconversionedinburgh.com
 DOMAIN-SUFFIX,loftdoordesign.com
-DOMAIN-SUFFIX,lofter.httpdns.c.163.com
 DOMAIN-SUFFIX,loftio.shop
 DOMAIN-SUFFIX,loftizsoftiz.org
 DOMAIN-SUFFIX,loftlivi.com
@@ -209496,6 +209500,7 @@ DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobads-logs.baidu.com
 DOMAIN-SUFFIX,mobads-logs.bcebos.com
 DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
+DOMAIN-SUFFIX,mobads.baidu.cn
 DOMAIN-SUFFIX,mobads.baidu.com
 DOMAIN-SUFFIX,mobads4app.com
 DOMAIN-SUFFIX,mobagent.com
@@ -213236,7 +213241,6 @@ DOMAIN-SUFFIX,mushyyoung.com
 DOMAIN-SUFFIX,music-official.com
 DOMAIN-SUFFIX,music.cleansite.us
 DOMAIN-SUFFIX,music.gotoothless.com
-DOMAIN-SUFFIX,music.httpdns.c.163.com
 DOMAIN-SUFFIX,music.managingforresults.com
 DOMAIN-SUFFIX,music.playmediacenter.com
 DOMAIN-SUFFIX,music.websegoo.net
@@ -237895,6 +237899,7 @@ DOMAIN-SUFFIX,pgdb1.surf-town.net
 DOMAIN-SUFFIX,pgdbb1.surf-town.net
 DOMAIN-SUFFIX,pgdskofjaloka.si
 DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,pgdt.ugdtimg.com
 DOMAIN-SUFFIX,pgdudllfjgeyy.online
 DOMAIN-SUFFIX,pgduet.nnnthree.com
 DOMAIN-SUFFIX,pgdvv.cupids.com
@@ -383749,6 +383754,7 @@ DOMAIN-SUFFIX,zhaner.xyz
 DOMAIN-SUFFIX,zhangguangzong.com
 DOMAIN-SUFFIX,zhangxinzhixun.com
 DOMAIN-SUFFIX,zhangyuyidong.cn
+DOMAIN-SUFFIX,zhangyuyidong.com
 DOMAIN-SUFFIX,zhangzhian.net
 DOMAIN-SUFFIX,zhanjijiancai.com
 DOMAIN-SUFFIX,zhanna.com
