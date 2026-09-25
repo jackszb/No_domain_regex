@@ -2,6 +2,12 @@
   "version": 5,
   "rules": [
     {
+      "domain_keyword": [
+        "-ad.sm.cn",
+        "-ad.video.yximgs.com",
+        "-ad.wtzw.com",
+        "-be-pack-sign.pglstatp-toutiao.com"
+      ],
       "domain_suffix": [
         "0--foodwarez.da.ru",
         "0-0-2day.vercel.app",
@@ -439765,12 +439771,6 @@
         "yumao.puata.info",
         "zeus.ad.xiaomi.com",
         "zjres-ad.kajicam.com"
-      ],
-      "domain_keyword": [
-        "-ad.sm.cn",
-        "-ad.video.yximgs.com",
-        "-ad.wtzw.com",
-        "-be-pack-sign.pglstatp-toutiao.com"
       ]
     }
   ]
